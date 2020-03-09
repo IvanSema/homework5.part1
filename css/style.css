@@ -103,7 +103,7 @@ h1, h2 {
     text-align: center;
     color: #1a0000;
     text-transform: uppercase;
-    margin: 20px 0;
+    margin: 20px 0 13px 0;
     font-family: 'Proxima Nova Regular';
     font-weight: bold;
 }
@@ -112,6 +112,7 @@ h1, h2 {
     color: #9d9d9d;
     text-align:center;
     font-family: 'Proxima Nova Light';
+    line-height: 26px;
 }
 
 .block-features .settings{
