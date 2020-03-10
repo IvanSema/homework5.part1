@@ -99,11 +99,16 @@ h1, h2 {
     padding: 17px;
 }
 
+.align-image{
+    position: relative;
+    top: 50%;
+}
+
 .block-features .caption{
     text-align: center;
     color: #1a0000;
     text-transform: uppercase;
-    margin: 20px 0 13px 0;
+    margin: 20px 0 15px 0;
     font-family: 'Proxima Nova Regular';
     font-weight: bold;
 }
