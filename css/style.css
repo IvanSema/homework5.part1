@@ -87,11 +87,11 @@ h1, h2 {
 
 .round{
     border-radius: 50%;
-    background-color: #2a69a6;
+    background-color: #3071b2;
     height: 62px;
     width: 62px;
     margin: 0 auto;
-    border: 2px solid #2a69a6;
+    border: 2px solid #3071b2;
 }
 
 .round p{
@@ -127,7 +127,7 @@ h1, h2 {
 
 .round:hover{
     background-color: white ;
-    border: 2px solid #2a69a6;
+    border: 2px solid #3876b5;
     }
 
 .round:hover  .settings{
@@ -136,9 +136,9 @@ h1, h2 {
 
 .block-features .mobile{
     background-position: 0 0;
-    background-image: url(../images/mobile2260.png);
+    background-image: url(../images/mobile.png);
     height: 30px;
-    width: 24px;
+    width: 28px;
     margin: -15px auto;
 }
 
